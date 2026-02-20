@@ -19,10 +19,7 @@ yarn-error.log
 .DS_Store
 *.zip
 *.sql
-*.pdf
 /database/seeders/*
 !/database/seeders/.gitkeep
 /app/Console/Commands/UpdateBurkinaNames.php
-/maquettes/
-/public/maquettes/
 /staging/
